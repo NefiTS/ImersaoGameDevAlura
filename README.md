@@ -1,1 +1,1 @@
-README.md
+Curso e jogo desenvolvido pelo Alura
